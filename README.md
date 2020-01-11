@@ -1,6 +1,6 @@
 First project with complete fullstack (frontend - backend - database)
 
-Done as part of university course with:
+Done as part of the Fullstack course in university:
 
 Frontend - React
 
