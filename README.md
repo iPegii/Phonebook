@@ -1,8 +1,11 @@
 First project with complete fullstack (frontend - backend - database)
 
-Done as part of university course:
+Done as part of university course with:
+
 Frontend - React
+
 Backend - Node.js & Express
+
 Database - MongoDB
 
 App can be found from: https://pegiappi.herokuapp.com/
